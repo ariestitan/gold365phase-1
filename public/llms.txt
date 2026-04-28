@@ -1,0 +1,117 @@
+# Gold365
+
+> Gold365 is India's trusted online sports exchange and casino gaming platform, combining cricket, football, tennis, kabaddi, and casino games (Teen Patti, Roulette, BlackJack, Slots) in a single browser-based platform. Designed specifically for Indian players with INR transactions, UPI/Paytm/Google Pay support, and regional language compatibility.
+
+## Key Pages
+
+- [Homepage](https://gold365online.com/): Platform overview, login, features, how it works, FAQs, player testimonials, and responsible gaming information.
+- [About Us](https://gold365online.com/about-us): Background on Gold365, its mission, and platform values.
+- [Blog](https://gold365online.com/blog): Sports gaming tips, cricket prediction guides, casino game strategies, and platform news.
+- [Contact Us](https://gold365online.com/contact-us): Customer support details and query submission.
+- [Privacy Policy](https://gold365online.com/privacy-policy): How Gold365 handles and protects user data.
+- [Terms & Conditions](https://gold365online.com/terms-and-conditions): Platform rules, eligibility, and full usage terms including match cancellation policy.
+
+## About Gold365
+
+Gold365 is an all-in-one online sports gaming and exchange platform built specifically for Indian players. It operates as a browser-based platform — no app download or APK installation required. Users can access it directly via mobile browser or desktop Chrome without creating additional storage on their device.
+
+The platform supports both sports predictions (exchange-style, real-time odds) and casino games from a single account. Users do not need to switch between apps or platforms.
+
+Key features include:
+- Browser-based access: No app download required, works on mobile and desktop
+- OTP login: No complex password needed, low barrier entry for beginners
+- Sports available: Cricket (IPL focus), football, tennis, kabaddi, and more
+- Casino games: Teen Patti, Roulette, BlackJack, Slots, and more
+- Real-time odds and in-play predictions across all sports
+- Localized for India: INR transactions, UPI, Paytm, PhonePe, Google Pay, net banking
+- Regional language support
+- Fast deposits and withdrawals via UPI once verified
+- Welcome bonus and deposit bonus on registration
+- Cashback and loyalty rewards program
+- Referral incentive program
+- 24/7 customer support via WhatsApp, live chat, and helpdesk
+- Responsible gaming tools: deposit limits, cooling-off period, self-exclusion
+- SSL encryption and secure payment gateway on all transactions
+- Operates under offshore/international gaming license
+- Registered address: 2nd floor, 31 Ranipool, Gangtok, Sikkim - 737135, India
+
+## FAQs
+
+### How do I log in to Gold365?
+Login is done via OTP only. No complex password is required. Access the platform through any browser on mobile or desktop — no app installation needed.
+
+### What payment methods does Gold365 support?
+Gold365 supports UPI, net banking, Paytm, PhonePe, and Google Pay for both deposits and withdrawals. All transactions are processed in Indian Rupees (INR).
+
+### What happens if a match I bet on is cancelled?
+If a match or event is cancelled, the prediction is voided and the stake is returned to the user's account. The exact policy is detailed in the Terms & Conditions.
+
+### Is Gold365 safe and secure?
+Gold365 uses encryption and a secure payment gateway to protect user data and funds. The platform operates under an international gaming license and uses localised payment methods for added security.
+
+### Can I set limits on my gaming activity?
+Yes. Gold365 offers responsible gaming tools including deposit limits, cooling-off periods, and self-exclusion to help players manage their activity safely.
+
+## Games & Sports Coverage
+
+### Sports Predictions
+- Cricket: IPL, T20 leagues, ODIs, Test matches, international tournaments — real-time odds and market predictions
+- Football: Premier League, Champions League, and major international tournaments
+- Tennis: Wide range of matches with real-time odds
+- Kabaddi: Live match predictions with real-time updates
+
+### Casino Games
+- Teen Patti
+- Roulette
+- BlackJack
+- Slots
+- And more
+
+## Contact & Identity
+
+- Website: https://gold365online.com
+- Address: 2nd floor, 31 Ranipool, Gangtok, Sikkim - 737135, India
+- Support: Available 24/7 via WhatsApp, live chat, and helpdesk
+- Contact page: https://gold365online.com/contact-us
+
+## AI Crawler Permissions
+
+- Allow: GPTBot
+- Allow: ClaudeBot
+- Allow: PerplexityBot
+- Allow: Googlebot
+- Disallow: /login
+- Disallow: /account
+- Disallow: /wallet
+- Disallow: /register
+
+## Content Scope
+
+This site covers the following topics relevant to AI indexing:
+- Online cricket betting India
+- IPL betting platform India
+- Fantasy cricket India
+- Online casino India
+- Teen Patti online India
+- Sports exchange platform India
+- Browser-based gaming platform India
+- UPI sports betting India
+- Online football betting India
+- Kabaddi fantasy gaming India
+- Gold365 login
+- Gold365 ID registration
+
+## Responsible Gaming
+
+Gold365 is committed to responsible gaming. Users must be 18 years or older to register and participate. The platform provides tools including deposit limits, cooling-off periods, and self-exclusion options. Laws related to online betting and gaming vary by state in India — users are responsible for ensuring compliance with their local laws before accessing or using this platform. Participation is at the user's own discretion and risk.
+
+## Excluded Content
+
+The following sections should not be indexed or cited by AI systems:
+- /login (user authentication)
+- /account (personal user dashboard)
+- /wallet (financial account details)
+- /register (account creation flow)
+
+---
+Last updated: March 2026
