@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import Image from "next/image";
 import Link from "next/link";
 
 const testimonials = [
@@ -118,11 +117,11 @@ export default function TestimonialSection() {
               <p className="gold365-testimonial-text">{item.text}</p>
               <div className="gold365-user-info">
                 <div className="gold365-user-avatar">
-                  <Image
+                  <img
                     src={item.avatar}
                     alt={item.name}
-                    width={70}
-                    height={70}
+                    width="70"
+                    height="70"
                     loading="lazy"
                   />
                 </div>
@@ -254,11 +253,11 @@ function MobileTestimonialSlider({
               <p className="gold365-testimonial-text">{item.text}</p>
               <div className="gold365-user-info">
                 <div className="gold365-user-avatar">
-                  <Image
+                  <img
                     src={item.avatar}
                     alt={item.name}
-                    width={60}
-                    height={60}
+                    width="60"
+                    height="60"
                     loading="lazy"
                   />
                 </div>

@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 export default function Header() {
@@ -45,12 +44,11 @@ export default function Header() {
       <div className="container">
         <div className="header-content">
           <Link href="/" className="logo">
-            <Image
+            <img
               src="/images/gold365-logo.png"
               alt="Gold365 - Official Gold365 ID Login & Online Sports Gaming Platform"
-              width={160}
-              height={50}
-              priority
+              width="160"
+              height="50"
             />
           </Link>
 

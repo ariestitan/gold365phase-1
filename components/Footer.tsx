@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 
 const WHATSAPP_LINK = "https://tinyurl.com/r32dj69c";
 const TINYURL_LINK = "https://tinyurl.com/r32dj69c";
@@ -14,7 +13,7 @@ export default function Footer() {
         <div className="container">
           <div className="notice-content">
             <div className="notice-logo">
-              <Image src="/images/gold365-logo.png" alt="Gold365 Logo" width={140} height={55} />
+              <img src="/images/gold365-logo.png" alt="Gold365 Logo" width="140" height="55" />
             </div>
             <div className="notice-text">
               <p>
@@ -143,7 +142,7 @@ export default function Footer() {
             </p>
             <div className="footer-logo-bottom">
               <a href={GET_ID_LINK} target="_blank" rel="noopener noreferrer" aria-label="Get Gold365 ID">
-                <Image src="/images/gold365-logo.png" alt="Gold365 footer logo" width={100} height={40} />
+                <img src="/images/gold365-logo.png" alt="Gold365 footer logo" width="100" height="40" />
               </a>
             </div>
           </div>
